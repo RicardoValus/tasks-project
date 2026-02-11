@@ -181,4 +181,14 @@ Familiarity with production-oriented infrastructure concepts
 
 While the domain is simple, the technical foundation reflects real-world backend development practices.
 
+## Note
+
+This project was developed as a structured learning exercise. 
+AI tools were used as educational support for explanations, review, and conceptual guidance.
+
+All architectural decisions, implementation steps, and understanding were intentionally studied and applied as part of the learning process.
+
+This repository represents a technical learning milestone rather than a production-ready product.
+
+
 
